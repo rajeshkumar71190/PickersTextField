@@ -9,7 +9,7 @@ spec.description        = "UIDatePicker or UIPickerView with UIToolbar as UIText
 spec.homepage           = "https://github.com/rajeshkumar71190"
 spec.license            = "MIT"
 spec.platform           = :ios, "10.0"
-spec.source             = { :git => "https://github.com/rajeshkumar71190/PickersTextField.git", :tag => "1.0.1", :commit => "7a61c2c5f69982ab02beb835fac729000d425371" }
+spec.source             = { :git => "https://github.com/rajeshkumar71190/PickersTextField.git", :tag => "1.0.1"}
 spec.source_files       = "PickersTextField"
 spec.resources			= "*.{png}"
 spec.swift_version      = "4.2" 
